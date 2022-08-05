@@ -1,4 +1,4 @@
-import { CreateUserService } from "../services/CreateUserService";
+import { CreateUserService } from "../../services/UserServices/CreateUserService";
 import { Request, Response } from "express";
 
 export class CreateUserController {
